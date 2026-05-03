@@ -1,0 +1,7 @@
+name,location,rooms,rating,price
+'FiveStarHotel','Nairobi',10.0,9,$100
+'DianiHotel','Mombasa',8,8.0,$95
+'RumaHotel','Kisumu',11,9.5,$85
+'HellsGateHotel','Nakuru',13,10.0,$75
+'CryingStoneHotel','Kakamega',20,6.5,$50
+'TwoRiversHotel','Kiambu',9,10.0,$65

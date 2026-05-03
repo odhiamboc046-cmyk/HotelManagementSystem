@@ -109,8 +109,7 @@ class User:
 
 
     #function to solve Hotel Management problem
-    def solveHotelManagement( userName, userId, bookingCost,rooms,locations
-                             ratings,prices):
+    def solveHotelManagement( userName, userId, bookingCost,rooms,locations ,ratings,prices):
         #initialize array that stores hotel data and user data
         hotels = []
          #crete objects for hotel and user
@@ -147,7 +146,8 @@ if __name__ == "__main__":
     ratings = [4.5, 4.0, 4.8]
     prices = [100.0, 80.0, 120.0]
 
-    solveHotelManagement(userName, userId, bookingCost, rooms, locations, ratings, prices)
+   # solveHotelManagement(userName, userId, bookingCost, rooms, locations, ratings, prices)
 
     #function to perform operations
-    HotelManagement(userName, userId, bookingCost, rooms, locations, ratings, prices)
+    #def HotelManagement(userName, userId, bookingCost, rooms, locations, ratings, prices):
+                  
